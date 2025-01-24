@@ -6,11 +6,11 @@ html, body {
     width: 100%;
     height: 100%;
     font-family: 'Arial', sans-serif;
-    line-height: 1.6; /* Improved line height for better readability */
+    line-height: 1.6;
 }
 
 header {
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    font-family: 'Poppins', sans-serif;
     background-color: #4a4a4a;
     color: #f0f0f0;
     padding: 20px;
@@ -32,8 +32,8 @@ nav a {
     text-decoration: none;
     padding: 10px 5px;
     margin: 10px;
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
-    font-size: 1.2rem; /* Slightly increased font size */
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
     transition: color 0.3s ease;
 }
 
@@ -86,9 +86,9 @@ nav a:hover {
     background-color: #ffcc00;
     color: #333;
     border: none;
-    padding: 12px 24px; /* Increased padding for better touch targets */
-    font-size: 1.4rem; /* Increased font size */
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    padding: 12px 24px;
+    font-size: 1.4rem;
+    font-family: 'Poppins', sans-serif;
     cursor: pointer;
     border-radius: 5px;
     transition: background-color 0.3s ease, transform 0.2s ease;
@@ -125,7 +125,7 @@ nav a:hover {
 }
 
 .section-title h3 {
-    font-size: 2.8em; /* Increased font size for better visibility */
+    font-size: 2.8em;
     font-family: 'Lobster', cursive;
     font-weight: bold;
     color: #ffcc00;
@@ -167,7 +167,7 @@ nav a:hover {
     width: 300px;
     text-align: center;
     padding: 15px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Added transition for smooth effect */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .breed-featured img {
@@ -181,9 +181,9 @@ nav a:hover {
 
 .breed-featured h3 {
     margin: 10px 0;
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    font-family: 'Poppins', sans-serif;
     color: #333;
-    font-size: 1.5rem; /* Increased font size */
+    font-size: 1.5rem;
 }
 
 .breed-featured p {
@@ -196,13 +196,13 @@ nav a:hover {
 .breed-featured a {
     text-decoration: none;
     color: #ffcc00;
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
 
 .breed-featured:hover {
-    transform: scale(1.05); /* Scale up on hover */
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4); /* Increase shadow on hover */
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
     text-decoration: underline;
     color: #fff;
 }
@@ -212,7 +212,7 @@ nav a:hover {
     text-align: center;
     padding: 10px 5px;
     font-size: 1rem;
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    font-family: 'Poppins', sans-serif;
     position: relative;
     width: 100%;
     z-index: 0;
@@ -311,7 +311,7 @@ nav a:hover {
 }
 
 .breed {
-    background-color: rgba(171, 171, 171, 0.9); /* Slightly more opaque */
+    background-color: rgba(171, 171, 171, 0.9);
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -331,15 +331,15 @@ nav a:hover {
 
 .breed h4 {
     margin: 10px 0;
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    font-family: 'Poppins', sans-serif;
     color: #333;
-    font-size: 1.5rem; /* Increased font size */
+    font-size: 1.5rem;
 }
 
 .breed a {
     text-decoration: none;
     color: #ffcc00;
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
 
@@ -359,7 +359,7 @@ nav a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 2.5rem; /* Increased font size */
+    font-size: 2.5rem;
     color: #f0f0f0;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     position: relative;
@@ -367,7 +367,7 @@ nav a:hover {
 }
 
 .parallax3 .content {
-    background: rgba(0, 0, 0, 0.7); /* Dark background for better contrast */
+    background: rgba(0, 0, 0, 0.7);
     padding: 20px;
     border-radius: 8px;
     max-width: 800px;
@@ -377,7 +377,7 @@ nav a:hover {
     position: relative;
     z-index: 2;
     text-align: center;
-    font-size: 1.2rem; /* Adjusted for better readability */
+    font-size: 1.2rem;
 }
 
 .parallax3::after {
@@ -387,7 +387,7 @@ nav a:hover {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Optional: dark overlay for better contrast */
+    background: rgba(0, 0, 0, 0.5);
     z-index: 1;
 }
 
@@ -400,7 +400,7 @@ nav a:hover {
 }
 
 .parallax4 .content {
-    background: rgba(0, 0, 0, 0.7); /* Slightly darker for better contrast */
+    background: rgba(0, 0, 0, 0.7);
     padding: 20px;
     border-radius: 8px;
     max-width: 800px;
@@ -431,7 +431,7 @@ nav a:hover {
 
 @media only screen and (max-width: 600px) {
     .parallax1, .parallax2, .parallax3, .parallax4, .breed-featured, .breed-preview, .featured-cats, .section-title {
-        font-size: 1.2rem; /* Adjusted for smaller screens */
+        font-size: 1.2rem;
         padding: 15px;
     }
 
@@ -483,7 +483,7 @@ nav a:hover {
     align-items: center;
     max-width: 600px;
     margin: 0 auto;
-    background: rgba(0, 0, 0, 0.7); /* Slightly darker for better contrast */
+    background: rgba(0, 0, 0, 0.7);
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
@@ -497,7 +497,7 @@ nav a:hover {
     border: none;
     border-radius: 5px;
     font-size: 1rem;
-    background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque */
+    background-color: rgba(255, 255, 255, 0.9);
     color: #333;
     font-family: 'Arial', sans-serif;
     box-sizing: border-box;
@@ -515,8 +515,8 @@ nav a:hover {
     background-color: #ffcc00;
     border: none;
     border-radius: 5px;
-    font-size: 1.2rem; /* Adjusted for better readability */
-    font-family: 'Poppins', sans-serif; /* Changed to a more modern font */
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
@@ -527,61 +527,65 @@ nav a:hover {
 }
 
 .cat-profile {
-    display: flex; /* Use flexbox for layout */
-    align-items: center; /* Center items vertically */
-    background-color: rgba(255, 255, 255, 0.9); /* Light background for contrast */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
-    max-width: 800px; /* Limit the width */
-    margin: 20px auto; /* Center the profile on the page */
-    padding: 20px; /* Padding for inner spacing */
-    position: relative; /* Positioning context for any absolute children */
-    z-index: 2; /* Ensure it appears above any background */
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    position: relative;
+    z-index: 2;
+    background-image: url(../cat-background5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .cat-photo {
-    width: 200px; /* Fixed width for the cat photo */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 8px; /* Rounded corners for the image */
-    margin-right: 20px; /* Space between image and text */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Shadow for the image */
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .cat-details {
-    flex: 1; /* Allow details to take remaining space */
+    flex: 1;
 }
 
 .cat-name {
-    font-family: 'Lobster', cursive; /* Use the same font as other headings */
-    font-size: 2rem; /* Larger font size for the name */
-    color: #333; /* Dark color for text */
-    margin-bottom: 10px; /* Space below the name */
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
 }
 
 .personality {
-    font-weight: bold; /* Bold for emphasis */
-    color: #ffcc00; /* Highlight color for personality */
+    font-weight: bold;
+    color: #ffcc00;
 }
 
 .description {
-    margin: 10px 0; /* Space above and below the description */
-    line-height: 1.6; /* Improved line height for readability */
-    color: #555; /* Slightly lighter color for description */
+    margin: 10px 0;
+    line-height: 1.6;
+    color: #555;
 }
 
 .did-you-know {
-    background-color: rgba(171, 171, 171, 0.8); /* Light gray background */
-    border-radius: 5px; /* Rounded corners */
-    padding: 10px; /* Padding for inner spacing */
-    margin: 15px 0; /* Space above and below */
-    font-style: italic; /* Italic style for emphasis */
+    background-color: rgba(171, 171, 171, 0.8);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px 0;
+    font-style: italic;
 }
 
 .extra-info {
-    margin-top: 10px; /* Space above extra info */
-    color: #333; /* Dark color for extra info */
+    margin-top: 10px;
+    color: #333;
 }
 
 .extra-info p {
-    margin: 5px 0; /* Space between extra info items */
+    margin: 5px 0;
 }
