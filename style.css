@@ -537,7 +537,7 @@ nav a:hover {
     padding: 20px;
     position: relative;
     z-index: 2;
-    background-image: url(/cat-background5.jpg);
+    background-image: url(cat-background5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
